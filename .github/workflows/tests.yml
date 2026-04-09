@@ -55,7 +55,7 @@ jobs:
               uses: docker/setup-buildx-action@v3
 
             - name: Start app
-              run: docker run -d -p 3000:3000 ghcr.io/danielsilva-loanpro/sdet-interview-challenge-dev:latest
+              run: docker run -d -p 3000:3000 ghcr.io/danielsilva-loanpro/sdet-interview-challenge:latest
 
             - name: Wait for app
               run: sleep 5
