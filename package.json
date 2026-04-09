@@ -1,0 +1,23 @@
+{
+  "name": "loanpro-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeAD09/loanpro-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JorgeAD09/loanpro-challenge/issues"
+  },
+  "homepage": "https://github.com/JorgeAD09/loanpro-challenge#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.5.2"
+  }
+}
